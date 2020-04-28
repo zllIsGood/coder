@@ -1,0 +1,4 @@
+
+npm i robotjs
+
+npm install imagejs
